@@ -8,7 +8,7 @@
 <HR><BR>
 
 # DEPLOY TO HEROKU
-* [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dasunpamod/Anonymous-sender-bot)
+* [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hasintha-Nirmal/Anonymous-sender-bot)
 
 
 # Vars Needed
