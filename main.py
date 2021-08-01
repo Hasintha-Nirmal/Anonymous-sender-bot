@@ -35,7 +35,7 @@ async def startmessage(event):
       ok = event.chat_id
       await client.send_message(event.chat_id,
                                 message=START_TEXT,
-                                buttons=[[Button.url("🤖 Deploy a clone 🤖","https://heroku.com/deploy?template=https://github.com/dasunpamod/Anonymous-sender-bot/")],
+                                buttons=[[Button.url("🤖 Deploy a clone 🤖","https://heroku.com/deploy?template=https://github.com/Hasintha_Nirmal/Anonymous-sender-bot/")],
                                          [Button.url("📢 Support Channel 📢","https://t.me/Alex_Danikan")],
                                          [Button.url("👨‍💻 Contact Owner 👨‍💻","https://t.me/Alex_Danikan")]]) 
                                                                                                          
